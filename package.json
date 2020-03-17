@@ -1,0 +1,15 @@
+{
+  "name": "react-typescript-boilerplate",
+  "version": "1.0.0",
+  "private": true,
+  "author": {
+    "name": "Aray"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "echo 'skip test...'"
+  }
+}
